@@ -1,4 +1,13 @@
-# Verbose Repo Template Name
+# Equation discovery for 2D-FHIT and RBC
+
+Discover subgrid-scale (SGS) momentum flux closures for 2D forced homogeneous isotropic turbulence (FHIT) and 2D turbulent Rayleigh-Bénard convection (RBC), and SGS heat flux closures for RBC.
+
+## Installation
+
+If you are interested in using this, please clone this repository and run,
+```
+pip install -e ./
+```
 
 #### [[project website]](http://pedram.rice.edu/team/)
 <img src="docs/repo_template.png" width="250">
@@ -12,9 +21,9 @@
 * [References](#References)
 
 ## Introduction
-<!-- An abstract length introduction 
-	to the project -->
-This is the introduction. We plan to
+Here, we apply a common equation-discovery technique with expansive libraries to learn closures for SGS fluxes from filtered direct numerical simulations (FDNS) of 2D-FHIT and RBC across several common filters types (Gaussian, box, Gaussian + box, sharp-spectral) and filter sizes. 
+
+
 <ul>
 <li>Do the first item,</li>
 <li>Test the second item,</li>

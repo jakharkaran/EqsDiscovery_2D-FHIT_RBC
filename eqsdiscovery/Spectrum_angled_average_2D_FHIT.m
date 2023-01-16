@@ -1,4 +1,4 @@
-function [TKE] = Spectrum_angled_average_2D_FHIT(U)
+function [TKE] = spectrum_angled_average_2D_FHIT(U)
 
 % Angled averaged spectrum for 2D flow variables
 % Input: 2D Square matrix

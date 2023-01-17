@@ -24,7 +24,7 @@ Vprime = V - meanV;
 E = Uprime.^2 + Vprime.^2;
 
 % fft
-E_hat = real(fft(E,[],1));
+E_hat = fft(E,[],1);
 
 % Averaging spectra over vertical direction
 A_hat_mean = mean(abs(E_hat(1:N_LES/2,:)),2)/N_LES;

@@ -17,7 +17,7 @@ meanA = mean(A,'all');
 Aprime = A - meanA;
 
 % fft
-A_hat = real(fft(Aprime,[],1));
+A_hat = fft(Aprime,[],1);
 
 % Averaging spectra over vertical direction
 A_hat_mean = mean(abs(A_hat(1:N_LES/2,:)),2)/N_LES;

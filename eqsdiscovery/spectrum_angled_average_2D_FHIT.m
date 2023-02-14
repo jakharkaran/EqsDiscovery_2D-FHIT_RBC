@@ -59,4 +59,4 @@ end
 %%
 
 tke = mean(eplot,2);
-TKE = tke;
+TKE = tke/NX^2;

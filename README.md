@@ -52,7 +52,14 @@ https://doi.org/10.5281/zenodo.7500647
 
 
 ## Citation
-
+- [Jakhar, K.](https://scholar.google.com/citations?user=buVddBgAAAAJ&hl=en), [Guan, Y.](https://gyf135.github.io/), [Mojgani, R.](https://www.rmojgani.com), [Chattopadhyay, A.](https://scholar.google.com/citations?user=wtHkCRIAAAAJ&hl=en), and [Hassanzadeh, P.
+](https://scholar.google.com/citations?user=o3_eO6EAAAAJ&hl=en), [Zanna, L.](https://scholar.google.com/citations?user=xWZmhjsAAAAJ&hl=en&oi=ao), 
+[**Learning Closed-form Equations for Subgrid-scale Closures from High-fidelity Data: Promises and Challenges**](https://arxiv.org/abs/2309.13211), (2023).<details><summary>BibTeX</summary><pre>@misc{jakhar2023learning,
+  title={Learning Closed-form Equations for Subgrid-scale Closures from High-fidelity Data: Promises and Challenges},
+  author={Jakhar, Karan and Guan, Yifei and Mojgani, Rambod and Chattopadhyay, Ashesh and Hassanzadeh, Pedram and Zanna, Laura},
+  journal={arXiv preprint arXiv:2306.05014},
+  year={2023}
+}</pre></details>
 
 
 
